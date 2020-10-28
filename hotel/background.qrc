@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/C:\Users\moham\OneDrive\Documents\hotel"/>
+    <qresource prefix="/">
+        <file>hotel-booking.jpg</file>
+        <file>hotel_reservations_104.jpg</file>
+        <file>employee icon.png</file>
+        <file>password icon.png</file>
+        <file>profil icon.png</file>
+        <file>client.png</file>
+        <file>modifier client.png</file>
+        <file>modifier entité.jpg</file>
+        <file>projet2.jpg</file>
+        <file>re.jpg</file>
+        <file>rec.jpg</file>
+        <file>reception.jpg</file>
+        <file>reservation.jpeg</file>
+        <file>supprimer client.png</file>
+        <file>téléchargement.png</file>
+        <file>modifier reser.png</file>
+        <file>modifentite.png</file>
+        <file>ajouter entité.jpg</file>
+        <file>ae.jpg</file>
+        <file>res.jpg</file>
+        <file>reservation.png</file>
+        <file>supp.png</file>
+        <file>supp2.png</file>
+        <file>supp3.png</file>
+        <file>supp4.png</file>
+        <file>aff.jpg</file>
+        <file>aff1.png</file>
+        <file>aff2.ico</file>
+        <file>aff4.png</file>
+        <file>affclient.png</file>
+        <file>client2.png</file>
+        <file>ae.jpg.png</file>
+        <file>modifier reserva.png</file>
+    </qresource>
+</RCC>
